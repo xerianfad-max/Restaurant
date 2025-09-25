@@ -6,6 +6,7 @@ const menu ={
         image: "/images/menu/bon-vivant-qom5MPOER-I-unsplash.jpg",
         price: 870,
         descripition:'noodle meat eggs and soup',
+        longDescription: '',
         category: 'meal'
     },
     1:{
